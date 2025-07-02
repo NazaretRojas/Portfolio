@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8e093686ba9a3ea43bf86dac64ee533a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TurretShopSprite: {instanceID: 0}
+  - TurretPrefab: {fileID: 8410788329202729261, guid: 5f54f6f5641b87846b85a8d01356ec63, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

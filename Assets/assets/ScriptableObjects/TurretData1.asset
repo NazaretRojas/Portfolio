@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d13407188c122344bba8320dce88d14f, type: 3}
+  m_Name: TurretData1
+  m_EditorClassIdentifier: 
+  turretName: Turret
+  turretIcon: {fileID: -6460050987230405918, guid: 3e84b8aea4cf2774cba7a995e8138f43, type: 3}
+  range: 3
+  rotationSpeed: 180
+  maxLevel: 5
+  damagePerLevel:
+  - 5
+  - 10
+  - 15
+  - 20
+  - 25
+  fireRatePerLevel:
+  - 1
+  upgradeCosts: 64000000fa00000036010000cc01000003020000

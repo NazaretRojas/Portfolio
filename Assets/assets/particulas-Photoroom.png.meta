@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: e234e7621a213ca418488ca6f4c467b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3608502337123852086
+    second: particulas-Photoroom_0
+  - first:
+      213: 686899139527362662
+    second: particulas-Photoroom_1
+  - first:
+      213: 3588801767008667396
+    second: particulas-Photoroom_2
+  - first:
+      213: 6993813324266674303
+    second: particulas-Photoroom_3
+  - first:
+      213: 6640570735243510876
+    second: particulas-Photoroom_4
+  - first:
+      213: -3093366466536249445
+    second: particulas-Photoroom_5
+  - first:
+      213: 3784156746589482563
+    second: particulas-Photoroom_6
+  - first:
+      213: -3030546343583943136
+    second: particulas-Photoroom_7
+  - first:
+      213: -3235715333501871165
+    second: particulas-Photoroom_8
+  - first:
+      213: 6009839419893966155
+    second: particulas-Photoroom_9
+  - first:
+      213: 8713509127590199098
+    second: particulas-Photoroom_10
+  - first:
+      213: 7508729639753554417
+    second: particulas-Photoroom_11
+  - first:
+      213: -1701950036530841437
+    second: particulas-Photoroom_12
+  - first:
+      213: -2430380193351474523
+    second: particulas-Photoroom_13
+  - first:
+      213: -9106821946305159044
+    second: particulas-Photoroom_14
+  - first:
+      213: -4846848976392353726
+    second: particulas-Photoroom_15
+  - first:
+      213: 7625014337806230809
+    second: particulas-Photoroom_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: particulas-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 168
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f1f67c1c9f31230800000000000000
+      internalID: 3608502337123852086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 156
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668cc08c02b588900800000000000000
+      internalID: 686899139527362662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40788db513cfdc130800000000000000
+      internalID: 3588801767008667396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 55
+        width: 47
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f781f42e9240f0160800000000000000
+      internalID: 6993813324266674303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c544b0486eb082c50800000000000000
+      internalID: 6640570735243510876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97600a86972215d0800000000000000
+      internalID: -3093366466536249445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e2ddef286048430800000000000000
+      internalID: 3784156746589482563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 144
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026f153382651f5d0800000000000000
+      internalID: -3030546343583943136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 54
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb16583c0e6813d0800000000000000
+      internalID: -3235715333501871165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 55
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b456be36c1d376350800000000000000
+      internalID: 6009839419893966155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 145
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f3329a26a9ce870800000000000000
+      internalID: 8713509127590199098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 54
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f915fb03dd543860800000000000000
+      internalID: 7508729639753554417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 132
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8bd1785757168e0800000000000000
+      internalID: -1701950036530841437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 54
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2e322471e854ed0800000000000000
+      internalID: -2430380193351474523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 54
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70efb990b11e9180800000000000000
+      internalID: -9106821946305159044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 54
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2480b2229888cbcb0800000000000000
+      internalID: -4846848976392353726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particulas-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 55
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9156334242e71d960800000000000000
+      internalID: 7625014337806230809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      particulas-Photoroom_0: 3608502337123852086
+      particulas-Photoroom_1: 686899139527362662
+      particulas-Photoroom_10: 8713509127590199098
+      particulas-Photoroom_11: 7508729639753554417
+      particulas-Photoroom_12: -1701950036530841437
+      particulas-Photoroom_13: -2430380193351474523
+      particulas-Photoroom_14: -9106821946305159044
+      particulas-Photoroom_15: -4846848976392353726
+      particulas-Photoroom_16: 7625014337806230809
+      particulas-Photoroom_2: 3588801767008667396
+      particulas-Photoroom_3: 6993813324266674303
+      particulas-Photoroom_4: 6640570735243510876
+      particulas-Photoroom_5: -3093366466536249445
+      particulas-Photoroom_6: 3784156746589482563
+      particulas-Photoroom_7: -3030546343583943136
+      particulas-Photoroom_8: -3235715333501871165
+      particulas-Photoroom_9: 6009839419893966155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

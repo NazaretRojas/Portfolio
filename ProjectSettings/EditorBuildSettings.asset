@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Nextmenu.unity
+    guid: a1c3876effb0c4f49873847d81df6391
+  - enabled: 1
+    path: Assets/Scenes/Maps.unity
+    guid: d1bb15a33ef1e50468d03add8f26aefa
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: b03661a3c33b4f547bd1042e4f8bd2b8
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 54f4df6e766b3204da88f8918a290614
+  - enabled: 1
+    path: Assets/Scenes/Rank.unity
+    guid: b85a6f5aaae466342831be677ac71ffb
+  - enabled: 1
+    path: Assets/Scenes/settings.unity
+    guid: ed2809ac3c37160458474ee8d4ce01cc
+  - enabled: 1
+    path: Assets/Scenes/Notificationssettings.unity
+    guid: a4c2758cabdfd6d438b21111c664bf1d
+  - enabled: 1
+    path: Assets/Scenes/Vibrationsettings.unity
+    guid: bbb18af74ca14774a906ee8565b0ad96
+  - enabled: 1
+    path: Assets/Scenes/Sonidosettings.unity
+    guid: 7050e343de34fbc45a85f7eb3e6cf34f
+  - enabled: 1
+    path: Assets/Scenes/OneGameDificulty.unity
+    guid: 928ad3287772d454fb5d61172bd292ee
+  - enabled: 1
+    path: Assets/Scenes/onegameEasy.unity
+    guid: 14ff002bac1e4f343b223215b3358ad0
+  - enabled: 1
+    path: Assets/Scenes/onegameMedium.unity
+    guid: d1dca05ec24eb014c863a595358cfc25
+  - enabled: 1
+    path: Assets/Scenes/onegameHard.unity
+    guid: ac1f3931296d54a419336e12d28af2f0
+  - enabled: 1
+    path: Assets/Scenes/twoGameDificulty.unity
+    guid: 82500f4f369a2b2409216b8c4b11f4a9
+  - enabled: 1
+    path: Assets/Scenes/twogameEasy.unity
+    guid: 6ab74838d6dd7bb43b93ee35d8e8d79a
+  - enabled: 1
+    path: Assets/Scenes/twogameMedium.unity
+    guid: 08848079af8484949b6dac0f82c77bb8
+  - enabled: 1
+    path: Assets/Scenes/twogameHard.unity
+    guid: 2350578dfc18dac4ca0eb462822b7caf
+  - enabled: 1
+    path: Assets/Scenes/threeGameDificulty.unity
+    guid: f02c1372905f17f429a37afaa4347ed5
+  - enabled: 1
+    path: Assets/Scenes/threegameEasy.unity
+    guid: 8f9ac72535e67d14db2cc3314c73b13f
+  - enabled: 1
+    path: Assets/Scenes/threegameMedium.unity
+    guid: 4e8ddf97f0c7a904a91e848032066792
+  - enabled: 1
+    path: Assets/Scenes/threegameHard.unity
+    guid: 85a1765e0a49ffa4abd87d96a7ca11e3
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
