@@ -1,7 +1,6 @@
 # ¡Hola! Soy Nazaret, programadora junior de videojuegos
 
 ## Sobre mí
-
 Actualmente estoy finalizando el curso de Programación de Videojuegos en Tokio School y próximamente realizaré las prácticas profesionales para completar mi formación. Estoy especializada en desarrollo con Unity y C#. Busco oportunidades para seguir aprendiendo y aportar en la industria del gaming.
 
 ---
