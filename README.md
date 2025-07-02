@@ -11,6 +11,21 @@ Actualmente estoy finalizando el curso de Programación de Videojuegos en Tokio 
 
 Un juego de tipo Tower Defense ambientado en el espacio, donde el jugador debe construir torres para defenderse de oleadas de naves enemigas. Desarrollé todo el juego de forma individual, incluyendo las mecánicas principales de defensa, el sistema de oleadas y la interfaz de usuario.
 
+## Capturas del juego
+
+![Pantalla principal](Imagenes/Inicio.png)
+![Menu](Imagenes/Menu.png)
+![Selcección de mapas](Imagenes/Mapas.png)
+![Selección de dificultad](Imagenes/Dificultades.png)
+![Nivel uno ](Imagenes/1mapa.png)
+![Nivel dos ](Imagenes/2mapa.png)
+![Nivel tres ](Imagenes/3mapa.png)
+![Tienda del juego](Imagenes/tienda.png)
+![Inventario del juego ](Imagenes/Invcentario)
+![Ajustes del juego ](Imagenes/ajustes.png)
+![Vibración del juego](Imagenes/vibración.png)
+![Notificaciones del juego ](Imagenes/notificaciones.png)
+![Sonido del juego ](Imagenes/Sonido.png)
 ---
 
 ## Habilidades técnicas
