@@ -26,6 +26,8 @@ Un juego de tipo Tower Defense ambientado en el espacio, donde el jugador debe c
 ![Vibración del juego](Imagenes/vibración.png)
 ![Notificaciones del juego ](Imagenes/notificaciones.png)
 ![Sonido del juego ](Imagenes/Sonido.png)
+
+[Ver video del gameplay](https://youtu.be/LxtDWW0CiAQ)
 ---
 
 ## Habilidades técnicas
