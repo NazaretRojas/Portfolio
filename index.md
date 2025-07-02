@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portafolio de Nazaret
+
 ---
 
 #  ¡Hola! Soy Nazaret
