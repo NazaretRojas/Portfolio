@@ -29,7 +29,13 @@ Un juego de tipo Tower Defense ambientado en el espacio, donde el jugador debe c
 
 [Ver video del gameplay](https://youtu.be/LxtDWW0CiAQ)
 ---
+## Cómo ejecutar el juego
 
+1. Clona este repositorio  
+2. Abre el proyecto con Unity versión 6000.0.34f1  
+3. Ejecuta la escena principal "Mainmenu"  
+
+---
 ## Habilidades técnicas
 
 - Programación en C#  
