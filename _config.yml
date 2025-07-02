@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-modernist
 title: Mi página
-description: Página usando GitHub Pages con tema minima
-theme: minima
+description: Página usando GitHub Pages con tema jekyll-theme-modernist
+theme: jekyll-theme-modernist
