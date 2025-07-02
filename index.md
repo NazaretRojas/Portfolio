@@ -46,6 +46,6 @@ Un Tower Defense ambientado en el espacio, donde el jugador defiende su base de 
 
 ## 📫 Contacto
 
-- 📧 Email: magnan7979@gmail.com 7 nazaretrojasespinosa@gmail.com
+- 📧 Email: magnan7979@gmail.com / nazaretrojasespinosa@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/TU-URL-DE-LINKEDIN](https://www.linkedin.com/in/nazaret-rojas-espinosa-682a77372/?trk=opento_sprofile_details)
 - 💼 GitHub: [NazaretRojas](https://github.com/NazaretRojas)
