@@ -48,5 +48,5 @@ Un juego de tipo Tower Defense ambientado en el espacio, donde el jugador debe c
 ## Contacto
 
 - Email: magnan7979@gmail.com/ nazaretrojasespinosa@gmail.com 
-- LinkedIn:  
+- LinkedIn:  www.linkedin.com/in/nazaret-rojas-espinosa-682a77372
 - GitHub: https://github.com/NazaretRojas
